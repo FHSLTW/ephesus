@@ -18,7 +18,8 @@ First you must understand the differences between the following books:
 * **Torah (Pentateuch)**: A subset of the Old Testament, the Torah is the first
    five books of the Hebrew scriptures and Christian bible. Commonly attributed
    solely to Moses, which would imply authorship in the 2nd millenium BCE.
-     *_Note:This attribution is contentious due to references inconsistent with this
+
+**_Note:This attribution is contentious due to references inconsistent with this
    time period (Genesis 14:14, Genesis 36:31), as well as a third-person
    reference to Moses (Numbers 12:3)._ 
    
