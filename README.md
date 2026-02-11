@@ -6,17 +6,20 @@
 > power, and the glory, for ever. Amen.
 > - the Lord's Prayer, Matthew 6:9 (KJV)
 
-# Prerequisites
+# Foundational Texts
 
 First you must understand the differences between the following books:
 
- * **Torah == Pentateuch**: the first five books of the Hebrew scriptures and
-   Christian bible. Commonly attributed to Moses, which would imply authorship
-   in the 2nd millenium BCE, but this is contentious.
- * **Old Testament**: the Torah/Pentateuch plus books from the prophets, Kings
-   David and Solomon, priests, and scribes. Altogether the Old Testmanet was
+ * **Old Testament**: the Torah, plus books and writings from the Prophets, King
+   David, King Solomon, priests, and scribes. Altogether the Old Testament was
    completed hundreds of years before Jesus. These books were originally
-   written in Hebrew.
+   written mostly in Hebrew with some portions written in Aramaic.
+* **Torah (Pentateuch)**: A subset of the Old Testament, the Torah is the first
+   five books of the Hebrew scriptures and Christian bible. Commonly attributed
+   solely to Moses, which would imply authorship in the 2nd millenium BCE. This
+   attribution, however, is contentious due to references inconsistent with this
+   time period (Genesis 14:14, Genesis 36:31), as well as a third-person
+   reference to Moses (Numbers 12:3). 
  * **New Testament**: all the books of the New Testament were written some time
    after Jesus, probably between 50 CE and 120 CE. The Old Testament and New
    Testament comprise the Christian Bible, although the total number of books
@@ -24,9 +27,12 @@ First you must understand the differences between the following books:
    Koine Greek. The first four books are known as the Gospels, or Good News.
    _The King James Version (KJV) is perhaps the most faithful in English,
    though it is not without faults._
- * **Babylonian Talmud**: compiled by scholars in Babylonia around 500 CE, based on
-   the Mishnah (written oral traditions) which was first written roughly in the
-   3rd century CE. The Babylonian Talmud is not part of the Christian Bible.
+ * **Babylonian Talmud (Talmud Bavli)**: Not to be confused with the Jerusalem
+   Talmud (Talmud Yerushalmi), the Babylonian Talmud was compiled by scholars
+   in Babylonia around 500 CE and is more comprehensive than the former. Both
+   are based on the Mishnah (a compilation of written oral traditions) which
+   was first written in the early 3rd century CE. Neither Talmud is part of
+   the Christian Bible.
    _Some Jews such as the Karaites maintain that all of the divine commandments
    handed down to Moses by God were recorded in the written Torah without
    additional Oral Law or explanation. As a result, Karaite Jews do not accept
