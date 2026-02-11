@@ -14,12 +14,14 @@ First you must understand the differences between the following books:
    David, King Solomon, priests, and scribes. Altogether the Old Testament was
    completed hundreds of years before Jesus. These books were originally
    written mostly in Hebrew with some portions written in Aramaic.
+   
 * **Torah (Pentateuch)**: A subset of the Old Testament, the Torah is the first
    five books of the Hebrew scriptures and Christian bible. Commonly attributed
-   solely to Moses, which would imply authorship in the 2nd millenium BCE. This
-   attribution, however, is contentious due to references inconsistent with this
+   solely to Moses, which would imply authorship in the 2nd millenium BCE.
+     *_Note:This attribution is contentious due to references inconsistent with this
    time period (Genesis 14:14, Genesis 36:31), as well as a third-person
-   reference to Moses (Numbers 12:3). 
+   reference to Moses (Numbers 12:3)._ 
+   
  * **New Testament**: all the books of the New Testament were written some time
    after Jesus, probably between 50 CE and 120 CE. The Old Testament and New
    Testament comprise the Christian Bible, although the total number of books
